@@ -78,7 +78,7 @@
                 else
                 {
                     echo"<script>
-                    alert(' Already registered this usn');
+                    alert('Registered Successfully!');
                     window.location.href='usn.php';
                     </script>";
                 }
